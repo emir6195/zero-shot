@@ -1,0 +1,7 @@
+setup.py
+lib/__init__.py
+lib/zero_shot.py
+zero_shot_emir.egg-info/PKG-INFO
+zero_shot_emir.egg-info/SOURCES.txt
+zero_shot_emir.egg-info/dependency_links.txt
+zero_shot_emir.egg-info/top_level.txt
