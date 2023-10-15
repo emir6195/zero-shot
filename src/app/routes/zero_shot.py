@@ -27,7 +27,7 @@ def conversation():
 
 
 @router.route("/sentiment-for-java", methods=["POST"])
-def conversation():
+def sentiment():
     data = request.get_json()
     labels = ["positive", "negative", "neutral"]
     if "text" in data:
